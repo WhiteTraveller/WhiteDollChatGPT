@@ -1,0 +1,2 @@
+# WhiteDollChatGPT
+名为白色人形的chatgpt安卓app
