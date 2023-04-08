@@ -1,2 +1,2 @@
 # WhiteDollChatGPT
-名为白色人形的chatgpt安卓app
+基于Flutter的chatgpt安卓app
